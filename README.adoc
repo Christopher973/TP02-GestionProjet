@@ -1,14 +1,14 @@
 = TP02 GestionProjet
 Auteur <christopher2211.angelique@gmail.com>
 
-Ce TP à pour but de nous faire découvrir et utiliser Github.
+Ce TP a pour but de nous faire découvrir et utiliser Github.
 Github est un site web et un service de cloud qui permet aux développeurs de gérer leur code
 ainsi que suivre et contrôler les diverses modifications apportées.
 
 == Auteur du projet
 Christopher Marie-Angélique : https://github.com/Christopher973[Voir le Github]
 
-== Commentaire éventuels
+== Commentaires éventuels
 |===
 |Column 1, Header Row |Column 2, Header Row |Column 3, Header Row
 
